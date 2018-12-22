@@ -32,7 +32,9 @@ from keras import layers
 import numpy as np
 from six.moves import range
 
-
+################
+### the first example , let me to try it !!!
+#################
 class CharacterTable(object):
     """Given a set of characters:
     + Encode them to a one-hot integer representation
